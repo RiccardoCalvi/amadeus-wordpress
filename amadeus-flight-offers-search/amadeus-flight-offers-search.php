@@ -1,12 +1,12 @@
 <?php
 /**
- * Plugin Name:     Amadeus Flight Offers Search
- * Plugin URI:      https://developers.amadeus.com
+ * Plugin Name:     Eyess Booking Engine
+ * Plugin URI:      https://dream2dev.com
  * Description:     Connecting to Flight Offers Search API.
- * Version:         1.0.0
+ * Version:         1.0.1
  * Requires PHP:    5.2
- * Author:          Amadeus for Developers
- * Author URI:      https://developers.amadeus.com
+ * Author:          Dream2Dev
+ * Author URI:      https://dream2dev.com
  * License:         GPL v2 or later
  * License URI:     https://www.gnu.org/licenses/gpl-2.0.html
  */
